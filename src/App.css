@@ -1,0 +1,12 @@
+body {
+  overflow-x:hidden;
+  overflow-y:auto;
+  min-width: 300px;
+  font-family: "Inter", sans-serif;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
